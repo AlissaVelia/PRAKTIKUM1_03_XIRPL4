@@ -8,8 +8,6 @@
  *
  * @author USER
  */
-public class p1 
-{
-    
+public class g {
     
 }
